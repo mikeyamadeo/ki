@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="33px" height="17px" viewBox="0 0 33 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7 (28169) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <g id="Mobile-Portrait" transform="translate(-294.000000, -48.000000)" stroke="#FF987F" stroke-width="2">
+            <g id="Group-5" transform="translate(244.000000, 35.000000)">
+                <g id="Group-3" transform="translate(50.000000, 15.000000)">
+                    <path d="M23,0 L31,6" id="Line"></path>
+                    <path d="M23,7 L31,13" id="Line" transform="translate(27.000000, 10.000000) rotate(-257.000000) translate(-27.000000, -10.000000) "></path>
+                    <path d="M31.120992,6.46627467 L0.999999962,6.46627462" id="Line"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
